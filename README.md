@@ -1,2 +1,2 @@
 # cmdb
-cmdb
+cmdb for django
